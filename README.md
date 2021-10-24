@@ -1,1 +1,1 @@
-# Tut6
+# Tutorial 6
